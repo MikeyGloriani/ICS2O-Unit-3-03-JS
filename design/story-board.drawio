@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="YEqV2kUQNWbuQKgwg2ig" name="Page-1">
+        <mxGraphModel dx="594" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Calculating the volume of a sphere" style="swimlane;labelBorderColor=none;labelBackgroundColor=default;swimlaneFillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="190" width="560" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="2" vertex="1">
+                    <mxGeometry x="420" y="60" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Radius here" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2">
+                    <mxGeometry x="30" y="120" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Calculate" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2">
+                    <mxGeometry x="30" y="190" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font color=&quot;#050505&quot;&gt;V=4/3pir&lt;b style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;³&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="35" y="70" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font color=&quot;#030303&quot;&gt;The volume is ...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+                    <mxGeometry x="30" y="240" width="100" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

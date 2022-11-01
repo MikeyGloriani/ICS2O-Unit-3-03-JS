@@ -8,14 +8,21 @@
  * Check servie worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-Template-PWA/sw.js", {
-    scope: "/ICS2O-Template-PWA/",
+  navigator.serviceWorker.register("/ICS2O-Unit-3-03-JS/sw.js", {
+    scope: "/ICS2O-Unit-3-03-JS/",
   })
 }
 
 /**
- * This function displays an alert.
+ * This function calculates the volume of a sphere
  */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+ function calculate() {
+  // input
+  const radius = parseFloat(document.getElementById("radius").value)
+
+  // process
+  const Volume = (4/3)*(Math.PI) * (radius**3)
+
+  // output
+  document.getElementById("volume").innerHTML = "Volume is: " + Volume + " cm²"
 }
