@@ -5,4 +5,3 @@
 [![Run on Repl.it](https://repl.it/badge/github/MikeyGloriani/ICS2O-Unit-3-03-JS)](https://repl.it/github/MikeyGloriani/ICS2O-Unit-3-03-JS)
 
 This site can be found at: [https://MikeyGloriani.github.io/ICS2O-Unit-3-03-JS](https://MikeyGloriani.github.io/ICS2O-Unit-3-03-JS)
-
